@@ -1,4 +1,4 @@
-## Proyecto Web de Fotografía :tw-1f4f7:
+## Proyectos en Python
 #### Descripción:
 Proyectos básicos en Python creados entre **2020** y **2021**.
 
